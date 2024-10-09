@@ -1,3 +1,9 @@
 [submodule "hello-world"]
 	path = hello-world
 	url = git@github.com:joepboumans/P4-hello-world.git
+[submodule "counter-example"]
+	path = counter-example
+	url = git@github.com:joepboumans/counter-example.git
+[submodule "control-plane-upload"]
+	path = control-plane-upload
+	url = git@github.com:joepboumans/control-plane-upload.git
