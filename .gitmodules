@@ -7,3 +7,6 @@
 [submodule "control-plane-upload"]
 	path = control-plane-upload
 	url = git@github.com:joepboumans/control-plane-upload.git
+[submodule "waterfall-table"]
+	path = waterfall-table
+	url = git@github.com:joepboumans/waterfall-table.git
