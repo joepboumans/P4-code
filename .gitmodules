@@ -10,3 +10,6 @@
 [submodule "waterfall-table"]
 	path = waterfall-table
 	url = git@github.com:joepboumans/waterfall-table.git
+[submodule "simple-resubmit"]
+	path = simple-resubmit
+	url = git@github.com:joepboumans/simple-resubmit.git
