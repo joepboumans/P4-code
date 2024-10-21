@@ -13,3 +13,9 @@
 [submodule "simple-resubmit"]
 	path = simple-resubmit
 	url = git@github.com:joepboumans/simple-resubmit.git
+[submodule "fcm_p4"]
+	path = fcm_p4
+	url = git@github.com:fcm-project/fcm_p4.git
+[submodule "simple-digest"]
+	path = simple-digest
+	url = git@github.com:joepboumans/simple-digest.git
