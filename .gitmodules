@@ -19,3 +19,6 @@
 [submodule "simple-digest"]
 	path = simple-digest
 	url = git@github.com:joepboumans/simple-digest.git
+[submodule "hash-matching-p4"]
+	path = hash-matching-p4
+	url = git@github.com:joepboumans/hash-matching-p4.git
